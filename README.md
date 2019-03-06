@@ -14,7 +14,9 @@ The project was done as part of Round 1 of Intelligence Analytics Challange 3.0 
 * [Contact](#contact)
 
 ## General info
-Add more general information about project. What the purpose of the project is? Motivation?
+
+The dataset consits of employment related data for a period of 8 years, from 2005-2012. The data has been used to
+answer 8 set of questions for the competiton. A model to predict the employment status of and indiviual based on input data has also been developed.
 
 ## Screenshots
 ![Example screenshot](./img/screenshot.png)
