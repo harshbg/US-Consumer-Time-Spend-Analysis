@@ -32,7 +32,7 @@ The test data used for exploratory analysis and model building can be found [her
 
 Some examples of usage:
 
-`#Support Vector Machine
+```#Support Vector Machine
 colnames(train)
 
 svm_con = list()
@@ -71,8 +71,9 @@ for(i in 1:4){
 svm_con
 multiclass.roc(response = test_svm$Employment_Status,
                predictor = as.numeric(pred_sv))
+```
 
-
+```
 # Random Forest
 
 rf_con = list()
@@ -102,7 +103,9 @@ for(i in  1:4){
                           y = train_rf$Employment_Status,
                           ntree = 500)
   
-  # Predicting the Test set results
+ ```
+ 
+ ``` #Predicting the Test set results
   pred_rf = predict(rf_model, newdata = test_rf[,-25])
   
   rf_con[[i]] = confusionMatrix(reference = test_rf$Employment_Status, data = pred_rf)
@@ -111,16 +114,15 @@ for(i in  1:4){
 rf_con
 multiclass.roc(response = test_rf$Employment_Status,
                predictor = as.numeric(pred_rf))   
-`
+```
 
 ## Features
-List of features
 * Prediction of employment status of an individual with ~85% accuracy
 * Insights to how an individual time spending habits and how it changes based on age/working status/education etc.
 * Insights to how the great recession had an impact the way an individual spent their time
 
 ## Status
-Project is: _finished_ and we did progress to the final round of the competition. Our project for the final round can be found (here)[]. Be sure to check it out and see how we did in our final round. 
+Project is: _finished_ and we did progress to the final round of the competition. Our project for the final round can be found [here](https://github.com/harshbg/US-Housing-Price-Analysis). Be sure to check it out and see how we did in our final round. 
 
 ## Contact
 Created by me and my awesome teammates Weiyang Sun and Sri Harish Popuri *Team Random*
