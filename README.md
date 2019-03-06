@@ -18,7 +18,10 @@ The data-set consists of employment related data for a period of 8 years, from 2
 answer 8 set of questions for the competition. A model to predict the employment status of and individual based on input data has also been developed.
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+![Example screenshot1](./img/picture1.jpg)
+![Example screenshot2](./img/picture2.jpg)
+![Example screenshot3](./img/picture3.jpg)
+![Example screenshot4](./img/picture4.jpg)
 
 ## Technologies and Tools
 * Microsoft R -version 3.4.3
@@ -32,7 +35,8 @@ The test data used for exploratory analysis and model building can be found [her
 
 Some examples of usage:
 
-```#Support Vector Machine
+```
+#Support Vector Machine
 colnames(train)
 
 svm_con = list()
@@ -105,7 +109,8 @@ for(i in  1:4){
   
  ```
  
- ``` #Predicting the Test set results
+ ``` 
+ #Predicting the Test set results
   pred_rf = predict(rf_model, newdata = test_rf[,-25])
   
   rf_con[[i]] = confusionMatrix(reference = test_rf$Employment_Status, data = pred_rf)
