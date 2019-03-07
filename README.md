@@ -1,7 +1,7 @@
 # US Consumer Time Spend Analysis
 
 > An analysis of the time spending habbits of American consumers. 
-The project was done as part of Round 1 of Intelligence Analytics Challenge 3.0 at the University of Texas at Dallas. The entire summary of the project can be found in the [project report](https://github.com/harshbg/US-Consumer-Time-Spend-Analysis/blob/master/UTD%20Random%20IAS%20Challenge%202018.pdf).
+The project was done as part of Round 1 of Intelligence Analytics Challenge 3.0 at the University of Texas at Dallas. The entire summary of the project can be found in the `[project report]`(https://github.com/harshbg/US-Consumer-Time-Spend-Analysis/blob/master/UTD%20Random%20IAS%20Challenge%202018.pdf).
 
 ## Table of contents
 * [General info](#general-info)
@@ -18,12 +18,12 @@ The data-set consists of employment related data for a period of 8 years, from 2
 answer 8 set of questions for the competition. A model to predict the employment status of and individual based on input data has also been developed.
 
 ## Screenshots
-![Example screenshot1](./img/Picture1.jpg)
-![Example screenshot2](./img/Picture2.jpg)
+![Project Roadmap](./img/Picture1.jpg)
+![Question](./img/Picture2.jpg)
 ![Example screenshot3](./img/Picture3.jpg)
 ![Example screenshot4](./img/Picture4.jpg)
 
-The entire presentation of the project can be found [here](https://github.com/harshbg/US-Consumer-Time-Spend-Analysis/blob/master/UTD%20Random%20IAS%20Challenge%202018.pdf).
+**The entire presentation of the project can be found [here](https://github.com/harshbg/US-Consumer-Time-Spend-Analysis/blob/master/UTD%20Random%20IAS%20Challenge%202018.pdf).**
 
 ## Technologies and Tools
 * Microsoft R -version 3.4.3
