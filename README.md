@@ -6,7 +6,7 @@ The project was done as part of Round 1 of Intelligence Analytics Challenge 3.0 
 ## Table of contents
 * [General info](#general-info)
 * [Screenshots](#screenshots)
-* [Technologies](#technologies-and-tools)
+* [Technologies and Tools](#technologies-and-tools)
 * [Setup](#setup)
 * [Features](#features)
 * [Status](#status)
