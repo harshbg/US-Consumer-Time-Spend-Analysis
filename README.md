@@ -23,7 +23,7 @@ answer 8 set of questions for the competition. A model to predict the employment
 ![Example screenshot3](./img/Picture3.jpg)
 ![Example screenshot4](./img/Picture4.jpg)
 
-`**The entire presentation of the project can be found [here](https://github.com/harshbg/US-Consumer-Time-Spend-Analysis/blob/master/UTD%20Random%20IAS%20Challenge%202018.pdf).**`
+**The entire presentation of the project can be found [here](https://github.com/harshbg/US-Consumer-Time-Spend-Analysis/blob/master/UTD%20Random%20IAS%20Challenge%202018.pdf).**
 
 ## Technologies and Tools
 * Microsoft R -version 3.4.3
