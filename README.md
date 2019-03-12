@@ -1,7 +1,7 @@
 # US Consumer Time Spend Analysis
 
 > An analysis of the time spending habbits of American consumers. 
-The project was done as part of Round 1 of Intelligence Analytics Challenge 3.0 at the University of Texas at Dallas. The entire summary of the project can be found in the `[project report](https://github.com/harshbg/US-Consumer-Time-Spend-Analysis/blob/master/UTD%20Random%20IAS%20Challenge%202018.pdf).`
+The project was done as part of Round 1 of Intelligence Analytics Challenge 3.0 at the University of Texas at Dallas. The entire summary of the project can be found in the [project report](https://github.com/harshbg/US-Consumer-Time-Spend-Analysis/blob/master/UTD%20Random%20IAS%20Challenge%202018.pdf).
 
 ## Table of contents
 * [General info](#general-info)
