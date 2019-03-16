@@ -31,7 +31,7 @@ answer 8 set of questions for the competition. A model to predict the employment
 * Microsoft Excel
 
 ## Setup
-The test data used for exploratory analysis and model building can be found [here](https://github.com/harshbg/US-Consumer-Time-Spend-Analysis/blob/master/Training%20Dataset.xlsx). The code provided [here](https://github.com/harshbg/US-Consumer-Time-Spend-Analysis/blob/master/Team%20Random%20-%20Code.R) can be used in latest version of R to see the various outputs provided and replicate the model generated. The accuracy of the model can be tested using the test data-set [here](https://github.com/harshbg/US-Consumer-Time-Spend-Analysis/blob/master/Test%20Dataset.xlsx) 
+The test data used for exploratory analysis and model building can be found [here](https://github.com/harshbg/US-Consumer-Time-Spend-Analysis/blob/master/Training%20Dataset.xlsx). The code provided [here](https://github.com/harshbg/US-Consumer-Time-Spend-Analysis/blob/master/Team%20Random%20-%20Code.R) can be used in latest version of R to see the various outputs provided and replicate the model generated. The accuracy of the model can be tested using the test data-set [here](https://github.com/harshbg/US-Consumer-Time-Spend-Analysis/blob/master/Test%20Dataset.xlsx).
 
 ## Code Examples
 
