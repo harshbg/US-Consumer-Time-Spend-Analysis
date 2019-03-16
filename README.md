@@ -124,14 +124,14 @@ multiclass.roc(response = test_rf$Employment_Status,
 ```
 
 ## Features
-* Prediction of employment status of an individual with ~85% accuracy
+* Prediction of employment status of an individual with ~85% accuracy.
 * Insights to how an individual time spending habits and how it changes based on age/working status/education etc.
-* Insights to how the great recession had an impact the way an individual spent their time
+* Insights to how the great recession had an impact the way an individual spent their time.
 
 ## Status
 Project is: _finished_ and we did progress to the final round of the competition. Our project for the final round can be found [here](https://github.com/harshbg/US-Housing-Price-Analysis). Be sure to check it out and see how we did in our final round. 
 
 ## Contact
-Created by me and my awesome teammates Weiyang Sun and Sri Harish Popuri *Team Random*
+Created by me and my awesome teammates Weiyang Sun and Sri Harish Popuri **Team Random**.
 
-Feel free to contact me! My other projects can be found [here](http://www.gupta-harsh.com/projects/)
+Feel free to contact me! My other projects can be found [here](http://www.gupta-harsh.com/projects/).
