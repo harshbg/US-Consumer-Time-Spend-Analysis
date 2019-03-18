@@ -134,5 +134,4 @@ Project is: _finished_ and we did progress to the final round of the competition
 
 ## Contact
 Created by me and my awesome teammates Weiyang Sun and Sri Harish Popuri **Team Random**
-
-Feel free to contact me! My other projects can be found [here](http://www.gupta-harsh.com/projects/)
+Feel free to contact me! My other projects can be found [here](http://www.gupta-harsh.com/projects/).
