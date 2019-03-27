@@ -1,6 +1,6 @@
 # US Consumer Time Spend Analysis
 
-> An analysis of the time spending habbits of American consumers. 
+> An analysis of the time spending habits of American consumers. 
 The project was done as part of Round 1 of Intelligence Analytics Challenge 3.0 at the University of Texas at Dallas. The entire summary of the project can be found in the [project report](https://github.com/harshbg/US-Consumer-Time-Spend-Analysis/blob/master/UTD%20Random%20IAS%20Challenge%202018.pdf).
 
 ## Table of contents
@@ -15,8 +15,8 @@ The project was done as part of Round 1 of Intelligence Analytics Challenge 3.0 
 
 ## General info
 
-The data-set consists of employment related data for a period of 8 years, from 2005-2012. The data has been used to
-answer 8 set of questions for the competition. A model to predict the employment status of and individual based on input data has also been developed.
+The data-set consists of employment-related data for a period of 8 years, from 2005-2012. The data has been used to
+answer 8 set of questions for the competition. A model to predict the employment status of an individual based on input data has also been developed.
 
 ## Screenshots
 ![Project Roadmap](./img/Picture1.jpg)
@@ -32,7 +32,7 @@ answer 8 set of questions for the competition. A model to predict the employment
 * Microsoft Excel
 
 ## Setup
-The test data used for exploratory analysis and model building can be found [here](https://github.com/harshbg/US-Consumer-Time-Spend-Analysis/blob/master/Training%20Dataset.xlsx). The code provided [here](https://github.com/harshbg/US-Consumer-Time-Spend-Analysis/blob/master/Team%20Random%20-%20Code.R) can be used in latest version of R to see the various outputs provided and replicate the model generated. The accuracy of the model can be tested using the test data-set [here](https://github.com/harshbg/US-Consumer-Time-Spend-Analysis/blob/master/Test%20Dataset.xlsx).
+The test data used for exploratory analysis and model building can be found [here](https://github.com/harshbg/US-Consumer-Time-Spend-Analysis/blob/master/Training%20Dataset.xlsx). The code provided [here](https://github.com/harshbg/US-Consumer-Time-Spend-Analysis/blob/master/Team%20Random%20-%20Code.R) can be used in the latest version of R to see the various outputs provided and replicate the model generated. The accuracy of the model can be tested using the test data-set [here](https://github.com/harshbg/US-Consumer-Time-Spend-Analysis/blob/master/Test%20Dataset.xlsx).
 
 ## Code Examples
 
@@ -125,9 +125,9 @@ multiclass.roc(response = test_rf$Employment_Status,
 ```
 
 ## Features
-* Prediction of employment status of an individual with ~85% accuracy.
+* Prediction of the employment status of an individual with ~85% accuracy.
 * Insights to how an individual time spending habits and how it changes based on age/working status/education etc.
-* Insights to how the great recession had an impact the way an individual spent their time.
+* Insights to how the great recession had an impact on the way an individual spent their time.
 
 ## Status
 Project is: _finished_ and we did progress to the final round of the competition. Our project for the final round can be found [here](https://github.com/harshbg/US-Housing-Price-Analysis). Be sure to check it out and see how we did in our final round. 
