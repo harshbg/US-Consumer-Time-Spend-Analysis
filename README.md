@@ -32,7 +32,7 @@ answer 8 set of questions for the competition. A model to predict the employment
 * Microsoft Excel
 
 ## Setup
-The test data used for exploratory analysis and model building can be found [here](https://github.com/harshbg/US-Consumer-Time-Spend-Analysis/blob/master/Training%20Dataset.xlsx). The code provided [here](https://github.com/harshbg/US-Consumer-Time-Spend-Analysis/blob/master/Team%20Random%20-%20Code.R) can be used in latest version of R to see the various outputs provided and replicate the model generated. The accuracy of the model can be tested using the test data-set [here](https://github.com/harshbg/US-Consumer-Time-Spend-Analysis/blob/master/Test%20Dataset.xlsx) 
+The test data used for exploratory analysis and model building can be found [here](https://github.com/harshbg/US-Consumer-Time-Spend-Analysis/blob/master/Training%20Dataset.xlsx). The code provided [here](https://github.com/harshbg/US-Consumer-Time-Spend-Analysis/blob/master/Team%20Random%20-%20Code.R) can be used in latest version of R to see the various outputs provided and replicate the model generated. The accuracy of the model can be tested using the test data-set [here](https://github.com/harshbg/US-Consumer-Time-Spend-Analysis/blob/master/Test%20Dataset.xlsx).
 
 ## Code Examples
 
@@ -133,5 +133,8 @@ multiclass.roc(response = test_rf$Employment_Status,
 Project is: _finished_ and we did progress to the final round of the competition. Our project for the final round can be found [here](https://github.com/harshbg/US-Housing-Price-Analysis). Be sure to check it out and see how we did in our final round. 
 
 ## Contact
+
 Created by me and my awesome teammates Weiyang Sun and Sri Harish Popuri **Team Random**
-Feel free to contact me! My other projects can be found [here](http://www.gupta-harsh.com/projects/).
+
+If you loved what you read here and feel like we can collaborate to produce some exciting stuff, or if you
+just want to shoot a question, please feel free to connect with me on <a href="hello@gupta-harsh.com" target="_blank">email</a>, <a href="https://www.linkedin.com/in/harshbg/" target="_blank">LinkedIn</a>, or <a href="https://twitter.com/harshbg" target="_blank">Twitter</a>. My other projects can be found [here](http://www.gupta-harsh.com/projects/). My other projects can be found [here](http://www.gupta-harsh.com/projects/).
